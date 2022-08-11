@@ -10,3 +10,5 @@ Ein *Zungenbrecher* ist ein Spruch der Wörter beinhaltet welche ähnlich klinge
 [2]: https://de.wikipedia.org/wiki/Zungenbrecher#:~:text=Ein%20Zungenbrecher%20ist%20eine%20bestimmte%20Wortfolge%2C%20deren%20schnelle%2C,in%20bestimmten%20Silben%20unterscheiden.%20Auch%20Alliterationen%20sind%20h%C3%A4ufig.
 
 ~~Zungenbrecher brechen einem die Zunge~~
+Um einen Text **fett** darzustellen, schreiben Sie `**fett**`
+Um einen Text als `Code` angezeigt zu bekommen, schreiben Sie  ``Code``
